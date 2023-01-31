@@ -1,1 +1,1 @@
-This project aims at identifying fraudulent credit card entires using Artificial Neural Networks. 
+This project aims at identifying fraudulent credit card entries using Artificial Neural Networks. 
